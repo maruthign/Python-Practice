@@ -13,3 +13,4 @@ print("At least one number is less than 5:", at_least_one_less_than_5)
 # Check if the first number is not greater than the second
 first_not_greater = not (num1 > num2)
 print("The first number is not greater than the second:", first_not_greater)
+
